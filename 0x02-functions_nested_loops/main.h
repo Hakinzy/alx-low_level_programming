@@ -6,6 +6,6 @@
 
 /* Prototypes */
 int _putchar(char c);
-iint print_sign(int n);
+int print_sign(int n);
 
 #endif

@@ -20,7 +20,7 @@ return (1);
 else if (n == 0)
 {
 _putchar(0 + 48);
-return (0);	
+return (0);
 }
 else
 {
