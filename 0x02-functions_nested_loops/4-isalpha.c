@@ -1,4 +1,4 @@
-nclude"main.h"
+#include"main.h"
 
 /**
 * _isalpha - checks if character is a letter
