@@ -1,13 +1,13 @@
-#include"main.h"
+include"main.h"
 
 /**
- * main - Entry point
- *
- * Description: prints the first 50 fibonacci numbers
- * starting with 1 and 2 foiled by a new line
- *
- * Return: Always 0 (Success)
- */
+* main - Entry point
+*
+* Description: prints the first 50 Fibonacci numbers
+* starting with 1 and 2 folled by a new line
+*
+* Return: Always 0 (Success)
+*/
 
 int main(void)
 {
@@ -25,7 +25,7 @@ fib2 = sum;
 if (count == 49)
 printf("\n");
 else
-printf(",");
+printf(", ");
 }
 
 return (0);
