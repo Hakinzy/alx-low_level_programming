@@ -6,6 +6,6 @@
 
 /* Prototypes */
 int _putchar(char c);
-void nline(void);
+void print_alphabet(void);
 
 #endif
