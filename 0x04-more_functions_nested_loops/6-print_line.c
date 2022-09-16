@@ -2,7 +2,9 @@
 
 /**
 * print_line - prints a line
+*
 * @n: value of line print
+*
 * Return: 0
 */
 
