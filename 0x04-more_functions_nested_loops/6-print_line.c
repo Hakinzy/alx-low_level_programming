@@ -22,4 +22,6 @@ for (i = 1; i <= n; ++i)
 {
 _purchar('_');
 }
+_putchar('\n');
+}
 }
