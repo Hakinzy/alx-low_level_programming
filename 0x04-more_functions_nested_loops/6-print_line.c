@@ -3,7 +3,6 @@
 /**
 * print_line - prints a line
 * @n: integer
-*
 * Return: 0
 */
 
