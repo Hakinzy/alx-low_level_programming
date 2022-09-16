@@ -21,5 +21,5 @@ if ((num / 10) > 0)
 {
 print_number(num / 10);
 }
-_putchare((num % 10) + '0');
+_putchar((num % 10) + '0');
 }
