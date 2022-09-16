@@ -2,25 +2,18 @@
 
 /**
 * print_line - prints a line
-* @n: integer
+* @n: value of line print
 * Return: 0
 */
 
 void print_line(int n)
 {
-int i;
+int line;
 
-if (n <= 0)
+if (n > 0)
 {
-_putchar('\n');
-}
-
-else
-{
-for (i = 1; i <= n; ++i)
-{
-_purchar('_');
+for(line = 0; line < n; line++)
+_putchar('_');
 }
 _putchar('\n');
-}
 }
