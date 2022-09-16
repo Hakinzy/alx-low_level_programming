@@ -9,9 +9,11 @@
 
 void print_line(int n)
 {
-int 1;
-for (i = 0; i < n; 1++)
-_putchar('_');
+int a = 0;
+
+while (a <= n && n == 0)
+{
+_putchar('_'), a++;
+}
 _putchar('\n');
-return;
 }
