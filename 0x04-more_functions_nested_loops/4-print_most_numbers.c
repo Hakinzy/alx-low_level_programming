@@ -16,5 +16,4 @@ if (i != 2 && i != 4)
 _putchar('0' + 1);
 }
 _putchar('\n');
-return;
 }
