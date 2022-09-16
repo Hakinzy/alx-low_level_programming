@@ -13,7 +13,7 @@ long larg_prim = 0;
 
 while (num != 1)
 {
-if (num % divisor == 0)	
+if (num % divisor == 0)
 {
 num = num / divisor;
 larg_prim = divisor;
