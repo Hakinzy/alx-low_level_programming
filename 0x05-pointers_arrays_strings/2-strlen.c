@@ -11,7 +11,7 @@ int len = 0;
 
 while (*s != '\0')
 {
-lens++;
+len++;
 s++;
 }
 
