@@ -5,9 +5,7 @@
  * @n: The integer whose value is to be set
  * Return: 0
  */
-
 void reset_to_98(int *n);
-
 {
 	*n = 98;
 }
