@@ -2,11 +2,11 @@
 #include "main.h"
 
 /**
- * print_array - print n elements of an array of integers
- * @a: elements of an array
- * @n: number of values
- * Return: 0
- */
+* print_array - print n elements of an array of integers
+* @a: elements of an array
+* @n: number of values
+* Return: 0
+*/
 void print_array(int *a, int n)
 {
 int s;
@@ -19,4 +19,4 @@ printf(", ");
 }
 
 	printf("\n");
- }
+}
