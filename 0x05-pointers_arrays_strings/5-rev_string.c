@@ -2,8 +2,8 @@
 
 /**
  * rev_string - reverse a string
- * @s: print string
- * Return: 0
+ * @s: input  string
+ * Return: string in reverse
  */
 void rev_string(char *s)
 {
