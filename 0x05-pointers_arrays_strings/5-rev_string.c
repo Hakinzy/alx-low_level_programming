@@ -18,6 +18,6 @@ void rev_string(char *s)
 		counter--;
 		rev = s[1];
 		s[1] = s[counter];
-		s[counter] = rec
+		s[counter] = rev;
 	}
 }
