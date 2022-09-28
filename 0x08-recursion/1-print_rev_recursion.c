@@ -8,7 +8,7 @@ void _print_rev_recursion(char *s)
 {
 if (*s)
 {
-_Print_rev_recurssion(s + 1);
+_print_rev_recurssion(s + 1);
 _putchar(*s);
 }
 }
