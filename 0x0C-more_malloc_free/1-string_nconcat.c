@@ -3,15 +3,14 @@
 
 /**
 * string_nconcat - concatenates the two strings
-* @s1: newly allocated space
-* @s2: n bytes
-*
+* @s1: string allocated space
+* @s2: string concatenate
+* @n: number of bytes
 * Return: NULL
 */
-
-char *string_nconcat(char *s1, char *s2, unsigned int n);`
+char *string_nconcat(char *s1, char *s2, unsigned int n);
 {
- char *s;
+char *s;
 	unsigned int i = 0, j = 0, len1 = 0, len2 = 0;
 
 	while (s1 && s1[len1])
