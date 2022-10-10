@@ -5,4 +5,5 @@
 * Description: whenever SIZE is called, it will be replaced with the value 1024
 */
 
-#define SIZE 1024 
+#define SIZE 1024
+#endif
