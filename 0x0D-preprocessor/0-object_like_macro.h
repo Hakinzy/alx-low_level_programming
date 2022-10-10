@@ -1,3 +1,5 @@
+#ifndef OBJECT_LIKE_MACRO
+#define OBJECT_LIKE_MACRO
 /**
 * Defining a macro in a Header file 
 * object_like_macro - name of the macro is SIZE
@@ -6,3 +8,5 @@
 */
 
 #define SIZE 1024
+
+#endif
