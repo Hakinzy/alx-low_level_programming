@@ -18,7 +18,7 @@ if (argc != 2)
 	exit(1);
 }
 
-	nbytes = atoi(argv#[1]);
+	nbytes = atoi(argv[1]);
 
 	if (nbytes < 0)
 {
